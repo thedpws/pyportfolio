@@ -1,2 +1,3 @@
 class Portfolio:
-    pass
+    def project(self, *args, **kwargs):
+        pass
