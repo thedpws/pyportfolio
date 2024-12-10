@@ -2,5 +2,5 @@ from enum import Enum
 
 
 class Column(Enum):
-    WEEK = 'week'
+    WEEKS = 'weeks'
     BALANCE = 'balance'
